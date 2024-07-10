@@ -1,3 +1,4 @@
+#### Featured in [Tableau Public’s Viz Wrap: Data Visualizations from 2023](https://www.tableau.com/blog/tableau-publics-viz-wrap-data-visualizations-2023)
 # Password Analysis Research
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
